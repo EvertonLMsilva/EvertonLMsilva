@@ -13,7 +13,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />     
-  <img align="right" align="right" height="150" width="200" src="https://i.pinimg.com/originals/d1/e7/ea/d1e7ea2ec87e31946a094ec66f66724d.gif" />
+  <img align="right" align="right" height="150" width="200" src="https://i.imgur.com/D9ZIG3o.gif" />
 </div>
 
 ##
